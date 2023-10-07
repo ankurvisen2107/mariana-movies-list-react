@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Mariana Movies List based on ReactJS
 
-This prject displays list of movies from a local api exposed via express.js and provides functionality to filter components based on genre (multiselect) and input search by movie title.
+This project displays list of movies from a local api exposed via express.js and provides functionality to filter components based on genre (multiselect) and input search by movie title.
 
 ## Available Scripts
 
